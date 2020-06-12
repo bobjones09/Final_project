@@ -7,8 +7,8 @@
   3. It will immediately create a job webpage that can deceive other people to think that you work there.
   4. It will generate you several cat images also created by AI. I mean.. who would dare think a cat-loving person can be a bad man? 
 
-Why is this project useful?
+<b>Why is this project useful?</b><br>
   It helps people create new(fake) identities.
  
-How do I get started?
+<b>How do I get started?</b><br>
   Download all the files and start from index.html
