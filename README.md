@@ -1,6 +1,6 @@
 # This is github repository for Open Source Software Final Project <Making New Identity>
 
-What does this project do?
+<b>What does this project do?</b><br>
   It helps you to create a new identity.
   1. It will give you many face images created by Artificial Intelligence. So you don't need to worry about Portrait infringement.
   2. It will suggest several names for you so you don't need to spend your precious time coming up with a fake name.
