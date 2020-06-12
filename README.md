@@ -12,3 +12,6 @@
  
 <b>How do I get started?</b><br>
   Download all the files and start from index.html
+  
+<b>Link for the video</b>
+https://drive.google.com/file/d/19Spr0XHRxAi1YbO78sKFtO-iWBbegc2w/view?usp=sharing
