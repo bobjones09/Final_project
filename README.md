@@ -13,5 +13,12 @@
 <b>How do I get started?</b><br>
   Download all the files and start from index.html
   
+<b>Sources I used for this project</b>
+  https://thispersondoesnotexist.com/     for the human pictures
+  https://www.thiscatdoesnotexist.com/    for the cat pictures
+  https://thisstartupdoesnotexist.com/    for fake job websites
+  
+  
+  
 <b>Link for the video</b>
 https://drive.google.com/file/d/19Spr0XHRxAi1YbO78sKFtO-iWBbegc2w/view?usp=sharing
