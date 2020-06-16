@@ -13,10 +13,10 @@
 <b>How do I get started?</b><br>
   Download all the files and start from index.html
   
-<b>Sources I used for this project</b>
-  https://thispersondoesnotexist.com/     for the human pictures
-  https://www.thiscatdoesnotexist.com/    for the cat pictures
-  https://thisstartupdoesnotexist.com/    for fake job websites
+<b>Sources I used for this project</b><br>
+  https://thispersondoesnotexist.com/     for the human pictures<br>
+  https://www.thiscatdoesnotexist.com/    for the cat pictures<br>
+  https://thisstartupdoesnotexist.com/    for fake job websites<br>
   
   
   
